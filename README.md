@@ -29,6 +29,7 @@ The collection returned 33 locations in London that have a RatingValue greater t
 The top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant, "Penang Flavours", are: Volunteer, Plumstead Manor Nursery, Atlantic Fish Bar, Iceland, and Howe and Co Fish and Chips.
 
 4. How many establishments in each Local Authority area have a hygiene score of 0? Results sorted from highest to lowest, with the top 10 Local Authority areas printed.
+
 ![count_by_area](https://github.com/m-coldewe/nosql-challenge/assets/152045367/833a5248-3973-41f6-8d3c-8a10899f44e3)
 
 
